@@ -153,10 +153,10 @@ a:focus {
 }
 
 .header_section .header_bottom {
-  background-color: #04233b;
-  color: #fff;
-  border-bottom: 1px solid #fff;
-  /* padding: 15px 0; */
+  background-color: #ffff;
+  color: #212226;
+  border-bottom: 1px solid #212226;
+  padding: 10px 0;
 }
 
 .header_section .header_bottom .container-fluid {
@@ -167,7 +167,7 @@ a:focus {
 .navbar-brand span {
   font-weight: bold;
   font-size: 24px;
-  color: #fff;
+  color: #212226;
 }
 
 .custom_nav-container {
@@ -181,8 +181,8 @@ a:focus {
 .custom_nav-container .navbar-nav .nav-item .nav-link {
   padding: 4px;
   margin-left: 10px;
-  color: #000000;
-  background-color: #7bc551;
+  color: #212226;
+  /* background-color: #7bc551; */
   text-align: center;
   text-transform: uppercase;
   border-radius: 5px;
@@ -192,6 +192,7 @@ a:focus {
 
 .custom_nav-container .navbar-nav .nav-item:hover .nav-link, .custom_nav-container .navbar-nav .nav-item.active .nav-link {
   color: #ffff;
+  background-color: #7bc551;
 }
 
 .custom_nav-container .nav_search-btn {
