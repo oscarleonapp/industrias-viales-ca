@@ -193,7 +193,7 @@ a:focus {
 .header_section .header_bottom {
   background-color: #ffff;
   color: #212226;
-  /* border-bottom: 1px solid #212226; */
+  border-bottom: 1px solid #e0e0e0;
   /* padding: 10px 0; */
 }
 
